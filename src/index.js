@@ -13,6 +13,7 @@ import BalamuruganEaswaran from './pages/KeynoteSpeakers/BalamuruganEaswaran';
 import BharaniPJaganMohan from './pages/KeynoteSpeakers/BharaniPJaganMohan';
 import Schedule from './pages/Schedule/Schedule';
 import Contact from './pages/Contact/Contact';
+
 // eslint-disable-next-line
 const bootstrapCSS = require("bootstrap/dist/css/bootstrap.css")
 // eslint-disable-next-line

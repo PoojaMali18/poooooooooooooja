@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { scroller } from "react-scroll";
 
 import { useLocation } from "react-router-dom";
-import PeopleCard from "./PeopleCard.jsx";
+import PeopleCard from "./PeopleCard";
 import i1 from "../../assets/callpapers.svg";
 
 export default function Committees() {
